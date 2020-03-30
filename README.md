@@ -32,7 +32,8 @@ Owner/developer | url | Partners | Modality | Format | Public | Integration | Va
 
 ### CT
 
-Journal | Theme | Title
-arXiv | AI | [Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis](https://arxiv.org/abs/2003.05037)
+Journal | Theme | Title | Link
+--------|-------|-------|-----
+arXiv | AI | Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis | [:computer_mouse:](https://arxiv.org/abs/2003.0503)
 
 ### X-Ray
