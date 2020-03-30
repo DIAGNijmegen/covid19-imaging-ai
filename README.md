@@ -24,8 +24,15 @@ Symbol | Meaning
 
 ## :minidisc: Software
 
+Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
+----------------|-----|----------|----------|--------|--------|-------------|-----------------
+[DarwinAI](https://www.darwinai.com/) | [GitHub](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | None | [arXiv](https://arxiv.org/abs/2003.09871)
+
 ## :page_facing_up: Papers
 
 ### CT
+
+Journal | Theme | Title
+arXiv | AI | [Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis](https://arxiv.org/abs/2003.05037)
 
 ### X-Ray
