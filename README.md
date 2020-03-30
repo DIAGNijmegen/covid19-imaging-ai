@@ -16,7 +16,9 @@ Name | Goal | Partners | Companies | Freely deployed\*
 -----|------|----------|-----------|------------------
 [Imaging COVID-19 AI](https://imagingcovid19ai.eu/) | Develop AI solution for CT | 20 european hospitals (unclear which), EuSoMII, NCI | Quibim, Robovision | :white_check_mark:
 
-\* : :white_check_mark: means intention is communicated, :green_check_mark: means solution is confirmed to be available
+**\*** 
+:white_check_mark: means intention is communicated   
+:green_check_mark: means solution is confirmed to be available
 
 ## :minidisc: Software
 
