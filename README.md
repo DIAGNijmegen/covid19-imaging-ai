@@ -1,11 +1,13 @@
 # COVID-19 Imaging AI
 
-An organized collection of data, software, initiatives and papers for 
+An organized collection of data, initiatives, software and papers for 
 COVID-19 imaging AI.
 
-## Data
+## :card_file_box: Data
 
-## (Inter)national initiatives
+## :world_map: (Inter)national initiatives
+
+## :minidisc: Software
 
 ## :page_facing_up: Papers
 
