@@ -7,8 +7,8 @@ COVID-19 imaging AI.
 
 Name | Modality | Format | #scans | Labels | Clinical info | Accessibility
 -----|----------|--------|-----------------|--------|---------------|--------------
-[SIRM](https://www.sirm.org/category/senza-categoria/covid-19/) | XR, CT | jpeg | 60 | :x: | age, medication, history, radiology report | [NifTI](http://medicalsegmentation.com/covid19/) 
-
+[SIRM](https://www.sirm.org/category/senza-categoria/covid-19/) | XR, CT | jpeg | 60 | :x: | age, medication, history, radiology report | :heavy_check_mark: [NifTI](http://medicalsegmentation.com/covid19/) 
+[RSNA](https://cases.rsna.org/coronavirus) | CT	| 11 | :x: | extensive: age, gender, history, presentation, physical exam, diagnostic testing, diagnosis | :white_check_mark: downloadable, but not in batch
 
 ## :world_map: (Inter)national initiatives
 
