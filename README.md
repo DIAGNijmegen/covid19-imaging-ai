@@ -28,17 +28,17 @@ Symbol | Meaning
 
 ## :minidisc: Software
 
-### Classification/detection
+### :mag: Classification/detection
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
 ----------------|-----|----------|----------|--------|--------|-------------|-----------------
-[COVnet](https://github.com/bkong999/COVNet) | [:octocat:](https://github.com/bkong999/COVNet) | CT | dcm | :heavy_check_mark: | | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
+[COVnet](https://github.com/bkong999/COVNet) | [:octocat:](https://github.com/bkong999/COVNet) | | CT | dcm | :heavy_check_mark: | | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
 [DarwinAI](https://www.darwinai.com/) | [:octocat:](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | | [:computer_mouse:](https://arxiv.org/abs/2003.09871)
 [CTAngel](http://121.40.75.149/znyx-ncov/index#/app/index) | [:computer_mouse:](http://121.40.75.149/znyx-ncov/index#/app/index) | Renmin Hospital of Wuhan University, Wuhan EndoAngel | CT | jpeg (submit per slice) | :heavy_check_mark: | Browser | [:computer_mouse:](https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf)
 [Quibim](https://quibim.com) | [:computer_mouse:](https://imagingcovid19.quibim.com) | [Imaging COVID-19 AI](https://imagingcovid19ai.eu/) | CT, XR | dcm | :heavy_check_mark: | Browser |
 [Alibaba Cloud](https://alibabacloud.com) | [:computer_mouse:](https://www.alibabacloud.com/solutions/ct-image-analytics) | | CT | dcm | :white_check_mark: apply via mail | Cloud |
 [Behold.ai](https://behold.ai) | [:computer_mouse:](https://behold.ai/covid-19/) | | XR | jpeg | :question: | :question: | 
 
-### Educational
+### :mortar_board: Educational
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
 ----------------|-----|----------|----------|--------|--------|-------------|-----------------
 [CIMAR](https://cimar.co.uk/) | [:computer_mouse:](https://bsticovid19.cimar.co.uk/) | | CT, XR | |:heavy_check_mark: | Browser | 
