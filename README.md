@@ -32,9 +32,11 @@ Owner/developer | url | Partners | Modality | Format | Public | Integration | Va
 ----------------|-----|----------|----------|--------|--------|-------------|-----------------
 [DarwinAI](https://www.darwinai.com/) | [GitHub](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | None | [arXiv](https://arxiv.org/abs/2003.09871)
 
-Add table for teaching software here
-CIMAR
-Detectedx
+### Educational
+Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
+----------------|-----|----------|----------|--------|--------|-------------|-----------------
+[CIMAR](https://cimar.co.uk/) | [:computer_mouse:](https://bsticovid19.cimar.co.uk/) | | CT, XR | |:heavy_check_mark: | Website | 
+[DetectEDx](https://www.detectedx.com/) | [:computer_mouse:](https://www.detectedx.com/) | University of Sydney | CT | dcm | :heavy_check_mark: | Website | 
 
 ## :page_facing_up: Papers
 
