@@ -15,6 +15,9 @@ Name | Modality | Format | #scans | Labels | Clinical info | Accessibility
 Name | Goal | Partners | Companies | Freely deployed\*
 -----|------|----------|-----------|------------------
 [Imaging COVID-19 AI](https://imagingcovid19ai.eu/) | Develop AI solution for CT | 20 european hospitals (unclear which), EuSoMII, NCI | Quibim, Robovision | :white_check_mark:
+[Covid19Challenge](https://www.covid19challenge.eu) | Collect data and develop AI solution for CT | LMU, TUM, BBF | M3i, ImFusion, Smart Reporting | :white_check_mark:, best models open-source after challenge 
+[Open COVID-19 Chest-AI repository](https://doradiology.com/covid-ai/index-notyetlive.html) | Free and open data repository | NVvR, UMC Utrecht | Segmed | :white_check_mark:
+[RDA COVID-19 Working Group](https://www.rd-alliance.org/groups/rda-covid19) | Define guidelines on data sharing and re-use | | |
 
 ### \* 
 Symbol | Meaning
@@ -27,6 +30,10 @@ Symbol | Meaning
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
 ----------------|-----|----------|----------|--------|--------|-------------|-----------------
 [DarwinAI](https://www.darwinai.com/) | [GitHub](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | None | [arXiv](https://arxiv.org/abs/2003.09871)
+
+Add table for teaching software here
+CIMAR
+Detectedx
 
 ## :page_facing_up: Papers
 
