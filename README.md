@@ -30,7 +30,7 @@ Symbol | Meaning
 
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
 ----------------|-----|----------|----------|--------|--------|-------------|-----------------
-[DarwinAI](https://www.darwinai.com/) | [GitHub](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | None | [arXiv](https://arxiv.org/abs/2003.09871)
+[DarwinAI](https://www.darwinai.com/) | [:octocat:](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | None | [arXiv](https://arxiv.org/abs/2003.09871)
 
 ### Educational
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
