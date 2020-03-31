@@ -3,12 +3,22 @@
 An organized collection of data, initiatives, software and papers for 
 COVID-19 imaging AI.
 
-## :card_file_box: Data
+## :bar_chart: Data
 
 Name | Modality | Format | #scans | Labels | Clinical info | Accessibility
 -----|----------|--------|-----------------|--------|---------------|--------------
 [SIRM](https://www.sirm.org/category/senza-categoria/covid-19/) | XR, CT | jpeg | 60 | :x: | age, medication, history, radiology report | :heavy_check_mark: [NifTI](http://medicalsegmentation.com/covid19/) 
 [RSNA](https://cases.rsna.org/coronavirus) | CT	| png | 11 | :x: | extensive: age, gender, history, presentation, physical exam, diagnostic testing, diagnosis | :white_check_mark: downloadable, but not in batch
+[covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) | CT, XR | jpeg, dcm, png | 200+ | :heavy_check_mark: | extensive: age, gender, scan date, report when available | :heavy_check_mark: downloadable
+[coronacases.org](https://coronacases.org) | CT | dcm | 10 | :x: | :wavy_dash: not downloadable, only viewer
+[Radiopaedia](https://radiopaedia.org/search?lang=us&q=covid&scope=cases) | CT, XR | jpeg | 34 | :x: | age, symptoms, PCR | :white_check_mark: download as jpeg per slice
+
+### :card_file_box: Dataset aggregators/lists
+
+Name | Description
+-----|------------
+[covid19-images](https://github.com/coyotespike/covid19-images) | Repository with other datasets as submodules. Soon will include dataloaders for TensorFlow, PyTorch, etc.
+[covid-dataset](https://github.com/arthurfigueiredo/covid-dataset) | Repository with links to other datasets, also non-COVID CT and XR.
 
 ## :world_map: (Inter)national initiatives
 
