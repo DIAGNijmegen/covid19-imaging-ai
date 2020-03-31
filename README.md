@@ -63,3 +63,10 @@ Theme | Link | Title | Journal
 AI | [:computer_mouse:](https://arxiv.org/abs/2003.0503) | Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis | arXiv
 
 ### X-Ray
+
+## Contribute
+
+Know of anything that should be listed here? Feel free to submit a pull
+request or open an issue for anything else!
+
+You can also get in touch via [email](mailto:bram.dewilde@radboudumc.nl).
