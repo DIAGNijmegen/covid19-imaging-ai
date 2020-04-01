@@ -10,7 +10,7 @@ Name | Modality | Format | #scans | Labels | Clinical info | Accessibility
 [SIRM](https://www.sirm.org/category/senza-categoria/covid-19/) | XR, CT | jpeg | 60 | :x: | age, medication, history, radiology report | :heavy_check_mark: [NifTI](http://medicalsegmentation.com/covid19/) 
 [RSNA](https://cases.rsna.org/coronavirus) | CT	| png | 11 | :x: | extensive: age, gender, history, presentation, physical exam, diagnostic testing, diagnosis | :white_check_mark: downloadable, but not in batch
 [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) | CT, XR | jpeg, dcm, png | 200+ | :heavy_check_mark: | extensive: age, gender, scan date, report when available | :heavy_check_mark: downloadable
-[coronacases.org](https://coronacases.org) | CT | dcm | 10 | :x: | :wavy_dash: not downloadable, only viewer
+[coronacases.org](https://coronacases.org) | CT | dcm | 10 | :x: | | :wavy_dash: not downloadable, only viewer
 [Radiopaedia](https://radiopaedia.org/search?lang=us&q=covid&scope=cases) | CT, XR | jpeg | 34 | :x: | age, symptoms, PCR | :white_check_mark: download as jpeg per slice
 
 ### :card_file_box: Dataset aggregators/lists
