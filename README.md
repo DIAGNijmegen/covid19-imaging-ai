@@ -61,8 +61,14 @@ Owner/developer | url | Partners | Modality | Format | Public | Integration | Va
 Theme | Link | Title | Journal
 --------|-------|-------|-----
 AI | [:computer_mouse:](https://arxiv.org/abs/2003.0503) | Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis | arXiv
+AI | [:computer_mouse:](https://arxiv.org/abs/2003.04655v2) | Lung Infection Quantification of COVID-19 in CT Images with Deep Learning | arXiv
+AI | [:computer_mouse:](https://arxiv.org/abs/2002.09334) | Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia | arXiv
+AI | [:computer_mouse:](https://arxiv.org/abs/2003.09860) | Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification | arXiv
+AI | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200905) | Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT | Radiology
+AI | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/ryct.2020200075) | Serial Quantitative Chest CT Assessment of COVID-19: Deep-Learning Approach | Radiology: Cardiothoracic Imaging
 
-### X-Ray
+### XR
+AI | [:computer_mouse:](https://arxiv.org/abs/2003.09871) | COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images | arXiv
 
 ## Contribute
 
