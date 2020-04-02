@@ -41,6 +41,7 @@ Symbol | Meaning
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
 ----------------|-----|----------|----------|--------|--------|-------------|-----------------
 [COVnet](https://github.com/bkong999/COVNet) | [:octocat:](https://github.com/bkong999/COVNet) | | CT | dcm | :heavy_check_mark: | | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
+[COVID-net](https://github.com/lindawangg/COVID-Net) | [:octocat:](https://github.com/lindawangg/COVID-Net) | | XR | jpeg/png | :heavy_check_mark: | | [:computer_mouse:](https://arxiv.org/abs/2003.09871)
 [DarwinAI](https://www.darwinai.com/) | [:octocat:](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | | [:computer_mouse:](https://arxiv.org/abs/2003.09871)
 [CTAngel](http://121.40.75.149/znyx-ncov/index#/app/index) | [:computer_mouse:](http://121.40.75.149/znyx-ncov/index#/app/index) | Renmin Hospital of Wuhan University, Wuhan EndoAngel | CT | jpeg (submit per slice) | :heavy_check_mark: | Browser | [:computer_mouse:](https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf)
 [Quibim](https://quibim.com) | [:computer_mouse:](https://imagingcovid19.quibim.com) | [Imaging COVID-19 AI](https://imagingcovid19ai.eu/) | CT, XR | dcm | :heavy_check_mark: | Browser |
