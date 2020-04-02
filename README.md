@@ -53,7 +53,7 @@ Owner/developer | url | Partners | Modality | Format | Public | Integration | Va
 [CIMAR](https://cimar.co.uk/) | [:computer_mouse:](https://bsticovid19.cimar.co.uk/) | | CT, XR | |:heavy_check_mark: | Browser | 
 [DetectEDx](https://www.detectedx.com/) | [:computer_mouse:](https://www.detectedx.com/) | University of Sydney | CT | dcm | :heavy_check_mark: | Browser | 
 
-## :page_facing_up:-:computer: AI papers
+## :page_facing_up::computer: AI papers
 
 ### CT
 
@@ -72,7 +72,7 @@ Link | Title | Journal
 -----|-------|--------
 [:computer_mouse:](https://arxiv.org/abs/2003.09871) | COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images | arXiv
 
-## :page_facing_up:-:syringe: Clinical papers
+## :page_facing_up::syringe: Clinical papers
 
 ### CT
 
