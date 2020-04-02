@@ -54,21 +54,45 @@ Owner/developer | url | Partners | Modality | Format | Public | Integration | Va
 [CIMAR](https://cimar.co.uk/) | [:computer_mouse:](https://bsticovid19.cimar.co.uk/) | | CT, XR | |:heavy_check_mark: | Browser | 
 [DetectEDx](https://www.detectedx.com/) | [:computer_mouse:](https://www.detectedx.com/) | University of Sydney | CT | dcm | :heavy_check_mark: | Browser | 
 
-## :page_facing_up: Papers
+## :page_facing_up:-:computer: AI papers
 
 ### CT
 
-Theme | Link | Title | Journal
---------|-------|-------|-----
-AI | [:computer_mouse:](https://arxiv.org/abs/2003.0503) | Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis | arXiv
-AI | [:computer_mouse:](https://arxiv.org/abs/2003.04655v2) | Lung Infection Quantification of COVID-19 in CT Images with Deep Learning | arXiv
-AI | [:computer_mouse:](https://arxiv.org/abs/2002.09334) | Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia | arXiv
-AI | [:computer_mouse:](https://arxiv.org/abs/2003.09860) | Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification | arXiv
-AI | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200905) | Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT | Radiology
-AI | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/ryct.2020200075) | Serial Quantitative Chest CT Assessment of COVID-19: Deep-Learning Approach | Radiology: Cardiothoracic Imaging
+Link | Title | Journal
+-----|-------|--------
+[:computer_mouse:](https://arxiv.org/abs/2003.0503) | Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis | arXiv
+[:computer_mouse:](https://arxiv.org/abs/2003.04655v2) | Lung Infection Quantification of COVID-19 in CT Images with Deep Learning | arXiv
+[:computer_mouse:](https://arxiv.org/abs/2002.09334) | Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia | arXiv
+[:computer_mouse:](https://arxiv.org/abs/2003.09860) | Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification | arXiv
+[:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200905) | Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT | Radiology
+[:computer_mouse:](https://pubs.rsna.org/doi/10.1148/ryct.2020200075) | Serial Quantitative Chest CT Assessment of COVID-19: Deep-Learning Approach | Radiology: Cardiothoracic Imaging
 
 ### XR
-AI | [:computer_mouse:](https://arxiv.org/abs/2003.09871) | COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images | arXiv
+
+Link | Title | Journal
+-----|-------|--------
+[:computer_mouse:](https://arxiv.org/abs/2003.09871) | COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images | arXiv
+
+## :page_facing_up:-:syringe: Clinical papers
+
+### CT
+
+Link | Title | Journal
+-----|-------|--------
+[:computer_mouse:](https://pubs.rsna.org/doi/10.1148/ryct.2020200047) | Chest CT Severity Score: An Imaging Tool for Assessing Severe COVID-19 | Radiology: Cardiothoracic Imaging
+[:computer_mouse:](https://link.springer.com/article/10.1007/s00330-020-06731-x) | Initial CT findings and temporal changes in patients with the novel coronavirus pneumonia (2019-nCoV): a study of 63 patients in Wuhan, China | European Radiology
+[:computer_mouse:](https://link.springer.com/article/10.1007/s00330-020-06809-6) | Recommendation of low-dose CT in the detection and management of COVID-2019 | European Radiology
+[:computer_mouse:](https://link.springer.com/article/10.1007/s00330-020-06817-6) | CT image visual quantitative evaluation and clinical classification of coronavirus disease (COVID-19) | European Radiology
+[:computer_mouse:](https://link.springer.com/article/10.1007/s00330-020-06816-7) | Coronavirus disease 2019: initial chest CT findings | European Radiology
+[:computer_mouse:](https://pubs.rsna.org/doi/abs/10.1148/ryct.2020200152) | Radiological Society of North America Expert Consensus Statement on Reporting Chest CT Findings Related to COVID-19. Endorsed by the Society of Thoracic Radiology, the American College of Radiology, and RSNA. | Radiology: Cardiothoracic imaging
+[:computer_mouse:](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30728-5/fulltext) | A role for CT in COVID-19? What data really tell us so far | The Lancet
+
+### XR
+
+### General
+Link | Title | Journal
+-----|-------|--------
+[:computer_mouse:](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) | Clinical Characteristics of Coronavirus Disease 2019 in China | New England Journal of Medicine
 
 ## Contribute
 
