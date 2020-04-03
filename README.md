@@ -28,6 +28,7 @@ Name | Goal | Partners | Companies | Publicly deployed | Public data
 [RSNA Data Repository](https://press.rsna.org/timssnet/media/pressreleases/14_pr_target.cfm?ID=2167) | Build open data repository for research and education | EuSoMII | | :wavy_dash: | :wavy_dash:
 [Covid19Challenge](https://www.covid19challenge.eu) | Collect data and develop AI solution for CT | LMU, TUM, BBF | M3i, ImFusion, Smart Reporting | :wavy_dash:, best models open-source after challenge | :wavy_dash:
 [Open COVID-19 Chest-AI repository](https://doradiology.com/covid-ai/index-notyetlive.html) | Free and open data repository | NVvR, UMC Utrecht | Segmed | :wavy_dash: | :wavy_dash:
+[ICOVAI](https://icovai.org/) | Develop AI solution and CT database | Amsterdam UMC, Erasmus MC, Liverpool Heart and Chest, Uni of Edinburgh | CIMAR, aidence, Incepto, Nicolab | :question: | :wavy_dash:
 [RDA COVID-19 Working Group](https://www.rd-alliance.org/groups/rda-covid19) | Define guidelines on data sharing and re-use | | | | 
 
 Symbol | Meaning
@@ -38,14 +39,17 @@ Symbol | Meaning
 ## :minidisc: Software
 
 ### :mag: Classification/detection
-Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
+Name | url | Partners | Modality | Format | Public | Integration | Validation/paper
 ----------------|-----|----------|----------|--------|--------|-------------|-----------------
 [COVnet](https://github.com/bkong999/COVNet) | [:octocat:](https://github.com/bkong999/COVNet) | | CT | dcm | :heavy_check_mark: | | [:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
 [DarwinAI](https://www.darwinai.com/) (COVID-Net) | [:octocat:](https://github.com/lindawangg/COVID-Net/) | | XR | |:heavy_check_mark: | | [:computer_mouse:](https://arxiv.org/abs/2003.09871)
 [CTAngel](http://121.40.75.149/znyx-ncov/index#/app/index) | [:computer_mouse:](http://121.40.75.149/znyx-ncov/index#/app/index) | Renmin Hospital of Wuhan University, Wuhan EndoAngel | CT | jpeg (submit per slice) | :heavy_check_mark: | Browser | [:computer_mouse:](https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf)
 [Quibim](https://quibim.com) | [:computer_mouse:](https://imagingcovid19.quibim.com) | [Imaging COVID-19 AI](https://imagingcovid19ai.eu/) | CT, XR | dcm | :heavy_check_mark: | Browser |
+[Infervision](https://global.infervision.com) | [:computer_mouse:](https://global.infervision.com/product/5/) | | CT | dcm | :question: | :question: |
 [Alibaba Cloud](https://alibabacloud.com) | [:computer_mouse:](https://www.alibabacloud.com/solutions/ct-image-analytics) | | CT | dcm | :wavy_dash: apply via mail | Cloud |
-[Behold.ai](https://behold.ai) | [:computer_mouse:](https://behold.ai/covid-19/) | | XR | jpeg | :question: | :question: | 
+[Behold.ai](https://behold.ai) | [:computer_mouse:](https://behold.ai/covid-19/) | Wellbeing software | XR | jpeg | :question: | :question: | 
+[Lunit](https://lunit.io) | [:computer_mouse:](https://www.lunit.io/en/covid19/) | | XR | dcm | :heavy_check_mark: 20 cases/day free | Browser upload | Validated on 6 images
+[CAD4COVID](https://www.delft.care/cad4covid/) | [CAD4COVID](https://www.delft.care/cad4covid/) | Thirona, Delf Imaging, Radboud University, HT Medica, Universitas Indonesia | XR | dcm | :heavy_check_mark: |  
 
 ### :mortar_board: Educational
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
