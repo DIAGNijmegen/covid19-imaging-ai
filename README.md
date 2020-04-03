@@ -27,7 +27,6 @@ Name | Goal | Partners | Companies | Publicly deployed | Public data
 [Imaging COVID-19 AI](https://imagingcovid19ai.eu/) | Develop AI solution for CT | 20 european hospitals (unclear which), EuSoMII, NCI | Quibim, Robovision | :wavy_dash: | :question:
 [RSNA Data Repository](https://press.rsna.org/timssnet/media/pressreleases/14_pr_target.cfm?ID=2167) | Build open data repository for research and education | EuSoMII | | :wavy_dash: | :wavy_dash:
 [Covid19Challenge](https://www.covid19challenge.eu) | Collect data and develop AI solution for CT | LMU, TUM, BBF | M3i, ImFusion, Smart Reporting | :wavy_dash:, best models open-source after challenge | :wavy_dash:
-[Open COVID-19 Chest-AI repository](https://doradiology.com/covid-ai/index-notyetlive.html) | Free and open data repository | NVvR, UMC Utrecht | Segmed | :wavy_dash: | :wavy_dash:
 [ICOVAI](https://icovai.org/) | Develop AI solution and CT database | Amsterdam UMC, Erasmus MC, Liverpool Heart and Chest, Uni of Edinburgh | CIMAR, aidence, Incepto, Nicolab | :question: | :wavy_dash:
 [RDA COVID-19 Working Group](https://www.rd-alliance.org/groups/rda-covid19) | Define guidelines on data sharing and re-use | | | | 
 
