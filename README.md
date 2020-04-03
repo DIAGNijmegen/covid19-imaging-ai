@@ -49,7 +49,7 @@ Name | url | Partners | Modality | Format | Public | Integration | Validation/pa
 [Alibaba Cloud](https://alibabacloud.com) | [:computer_mouse:](https://www.alibabacloud.com/solutions/ct-image-analytics) | | CT | dcm | :wavy_dash: apply via mail | Cloud |
 [Behold.ai](https://behold.ai) | [:computer_mouse:](https://behold.ai/covid-19/) | Wellbeing software | XR | jpeg | :question: | :question: | 
 [Lunit](https://lunit.io) | [:computer_mouse:](https://www.lunit.io/en/covid19/) | | XR | dcm | :heavy_check_mark: 20 cases/day free | Browser upload | Validated on 6 images
-[CAD4COVID](https://www.delft.care/cad4covid/) | [CAD4COVID](https://www.delft.care/cad4covid/) | Thirona, Delf Imaging, Radboud University, HT Medica, Universitas Indonesia | XR | dcm | :heavy_check_mark: |  
+[CAD4COVID](https://www.delft.care/cad4covid/) | [:computer_mouse:](https://www.delft.care/cad4covid/) | Thirona, Delft Imaging, Radboud University, HT Medica, Universitas Indonesia | XR | dcm | :heavy_check_mark: |  
 
 ### :mortar_board: Educational
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
