@@ -19,6 +19,7 @@ Name | Description
 -----|------------
 [covid19-images](https://github.com/coyotespike/covid19-images) | Repository with other datasets as submodules. Soon will include dataloaders for TensorFlow, PyTorch, etc.
 [covid-dataset](https://github.com/arthurfigueiredo/covid-dataset) | Repository with links to other datasets, also non-COVID CT and XR.
+[COVID-CT](https://github.com/UCSD-AI4H/COVID-CT) | Repository with images scraped from papers. Downloadable and includes metadata from image captions.
 
 ## :world_map: (Inter)national initiatives
 
@@ -26,8 +27,6 @@ Name | Goal | Partners | Companies | Publicly deployed | Public data
 -----|------|----------|-----------|-------------------|------------
 [Imaging COVID-19 AI](https://imagingcovid19ai.eu/) | Develop AI solution for CT | 20 european hospitals (unclear which), EuSoMII, NCI | Quibim, Robovision | :wavy_dash: | :question:
 [RSNA Data Repository](https://press.rsna.org/timssnet/media/pressreleases/14_pr_target.cfm?ID=2167) | Build open data repository for research and education | EuSoMII | | :wavy_dash: | :wavy_dash:
-[Covid19Challenge](https://www.covid19challenge.eu) | Collect data and develop AI solution for CT | LMU, TUM, BBF | M3i, ImFusion, Smart Reporting | :wavy_dash:, best models open-source after challenge | :wavy_dash:
-[Open COVID-19 Chest-AI repository](https://doradiology.com/covid-ai/index-notyetlive.html) | Free and open data repository | NVvR, UMC Utrecht | Segmed | :wavy_dash: | :wavy_dash:
 [ICOVAI](https://icovai.org/) | Develop AI solution and CT database | Amsterdam UMC, Erasmus MC, Liverpool Heart and Chest, Uni of Edinburgh | CIMAR, aidence, Incepto, Nicolab | :question: | :wavy_dash:
 [RDA COVID-19 Working Group](https://www.rd-alliance.org/groups/rda-covid19) | Define guidelines on data sharing and re-use | | | | 
 
@@ -50,6 +49,9 @@ Name | url | Partners | Modality | Format | Public | Integration | Validation/pa
 [Behold.ai](https://behold.ai) | [:computer_mouse:](https://behold.ai/covid-19/) | Wellbeing software | XR | jpeg | :question: | :question: | 
 [Lunit](https://lunit.io) | [:computer_mouse:](https://www.lunit.io/en/covid19/) | | XR | dcm | :heavy_check_mark: 20 cases/day free | Browser upload | Validated on 6 images
 [CAD4COVID](https://www.delft.care/cad4covid/) | [:computer_mouse:](https://www.delft.care/cad4covid/) | Thirona, Delft Imaging, Radboud University, HT Medica, Universitas Indonesia | XR | dcm | :heavy_check_mark: | Cloud | 
+[Arterys](https://arterys.com/) | [:computer_mouse:](https://marketplace.arterys.com/model/aitroxchestCT) | Aitrox | CT | dcm | :heavy_check_mark: | Browser upload | 
+[RADLogics](https://www.radlogics.com/) | [:computer_mouse:](https://www.radlogics.com/coronavirus/) | US and Chinese hospitals | CT | dcm | :question: | :question: | [:computer_mouse:](https://arxiv.org/ftp/arxiv/papers/2003/2003.05037.pdf)
+[icometrix](https://icometrix.com/) | [:computer_mouse:](https://icometrix.com/services/icolung) | US and Chinese hospitals | CT | dcm | :question: | :question: | 
 
 ### :mortar_board: Educational
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
@@ -89,6 +91,7 @@ Link | Title | Journal
 [:computer_mouse:](https://link.springer.com/article/10.1007/s00330-020-06816-7) | Coronavirus disease 2019: initial chest CT findings | European Radiology
 [:computer_mouse:](https://pubs.rsna.org/doi/abs/10.1148/ryct.2020200152) | Radiological Society of North America Expert Consensus Statement on Reporting Chest CT Findings Related to COVID-19. Endorsed by the Society of Thoracic Radiology, the American College of Radiology, and RSNA. | Radiology: Cardiothoracic imaging
 [:computer_mouse:](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30728-5/fulltext) | A role for CT in COVID-19? What data really tell us so far | The Lancet
+[:computer_mouse:](https://pubs.rsna.org/doi/10.1148/radiol.2020200642) | Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases | Radiology 
 
 ### XR
 
