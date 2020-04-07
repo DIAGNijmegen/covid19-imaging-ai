@@ -53,6 +53,7 @@ Name | url | Partners | Modality | Format | Public | Integration | Validation/pa
 [Arterys](https://arterys.com/) | [:computer_mouse:](https://marketplace.arterys.com/model/aitroxchestCT) | Aitrox | CT | dcm | :heavy_check_mark: | Browser upload | 
 [RADLogics](https://www.radlogics.com/) | [:computer_mouse:](https://www.radlogics.com/coronavirus/) | US and Chinese hospitals | CT | dcm | :question: | :question: | [:computer_mouse:](https://arxiv.org/ftp/arxiv/papers/2003/2003.05037.pdf)
 [icometrix](https://icometrix.com/) | [:computer_mouse:](https://icometrix.com/services/icolung) | US and Chinese hospitals | CT | dcm | :question: | :question: | 
+[Qure](https://qure.ai) | [:computer_mouse:](http://qure.ai/qxr.html) | | XR | dcm | :x: | | 
 
 ### :mortar_board: Educational
 Owner/developer | url | Partners | Modality | Format | Public | Integration | Validation/paper
